@@ -1,0 +1,40 @@
+  {
+    "type": "profession",
+    "ident": "character_len",
+    "name": "Lennis Main",
+    "description": "Main character from Lennis.",
+    "points": 5,
+    "skills": [
+      { "level": 1, "name": "speech" },
+      { "level": 1, "name": "tailor" },
+      { "level": 1, "name": "fabrication" },
+      { "level": 1, "name": "cooking" },
+      { "level": 1, "name": "driving" },
+      { "level": 1, "name": "firstaid" },
+      { "level": 1, "name": "gun" },
+      { "level": 1, "name": "pistol" },
+      { "level": 1, "name": "melee" },
+      { "level": 1, "name": "computer" }
+    ],
+    "items": {
+      "both": {
+       "items": [
+        "jeans",
+        "cloak",
+        "fanny",
+        "dress_shoes",
+        "socks",
+        "dress_shirt",
+        "tanto",
+        "bandana"
+      ],
+        "entries": [
+          { "item": 
+        "ruger_redhawk", "ammo-item": "44magnum", "charges": 5, "container-item": "sholster" },
+          { "item": "44magnum", "charges": 21 }
+        ]
+       },
+      "male": [ "tank_top", "boxer_briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+  },
