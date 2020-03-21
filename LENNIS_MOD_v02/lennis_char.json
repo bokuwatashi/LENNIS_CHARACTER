@@ -1,0 +1,35 @@
+  {
+    "type": "profession",
+    "ident": "character_len",
+    "name": "Lennis Main",
+    "description": "Main character from Lennis.",
+    "points": 5,
+    "skills": [
+      { "level": 1, "name": "speech" },
+      { "level": 1, "name": "tailor" },
+      { "level": 1, "name": "fabrication" },
+      { "level": 1, "name": "cooking" },
+      { "level": 1, "name": "driving" },
+      { "level": 1, "name": "firstaid" },
+      { "level": 1, "name": "unarmed" },
+      { "level": 1, "name": "cutting" },
+      { "level": 1, "name": "melee" },
+      { "level": 1, "name": "computer" }
+    ],
+    "items": {
+      "both": {
+       "items": [
+        "red_hood",
+        "beige_breeches",
+        "blue_tunic",
+        "fanny",
+        "rugged_boots",
+        "corduroy_socks",
+        "yellow_bandana"
+      ],
+        "entries": [ { "item": "sharpened_katana", "container-item": "gray_scabbard" } ]
+       },
+      "male": [ "green_shirt", "boxer_briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+  },

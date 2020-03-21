@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "LENNIS_MOD_v02",
+    "name": "Lennis' character",
+    "authors": [ "User_Lennis" ],
+    "maintainers": [ "User_Lennis" ],
+    "description": "Adds Lennis' class.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
